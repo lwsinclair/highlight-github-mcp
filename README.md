@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/highlight-ing-highlight-github-mcp-badge.png)](https://mseep.ai/app/highlight-ing-highlight-github-mcp)
+
 # GitHub Integration
 
 The GitHub MCP server provides functionality to extract diffs from Pull Requests.
